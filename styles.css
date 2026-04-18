@@ -30,8 +30,10 @@ body {
     --secondary: #ffffff;
 
     /* Elegant Gold & Terracotta Accents */
-    --accent: hsl(42, 85%, 55%);
-    --accent-warm: hsl(15, 85%, 60%);
+    /* --accent: hsl(42, 85%, 55%); */
+    /* --accent-warm: hsl(15, 85%, 60%); */
+    --accent: hsl(200, 85%, 55%);
+    --accent-warm: hsl(250, 85%, 60%);
 
     --text-dark: hsl(155, 40%, 15%);
     --text-light: hsl(155, 10%, 45%);
