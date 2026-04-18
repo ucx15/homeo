@@ -1,0 +1,7 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-label="Medical symbol" title="Medical caduceus">
+  <path d="M 12 2 L 12 22 M 8 8 Q 8 6 12 6 Q 16 6 16 8 Q 16 10 12 10 Q 8 10 8 8 M 8 14 Q 8 12 12 12 Q 16 12 16 14 Q 16 16 12 16 Q 8 16 8 14" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="6" cy="8" r="1.5" fill="currentColor"/>
+  <circle cx="18" cy="8" r="1.5" fill="currentColor"/>
+  <circle cx="6" cy="14" r="1.5" fill="currentColor"/>
+  <circle cx="18" cy="14" r="1.5" fill="currentColor"/>
+</svg>

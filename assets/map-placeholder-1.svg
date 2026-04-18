@@ -1,0 +1,5 @@
+<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <rect width="300" height="200" fill="#f0f8f4"/>
+  <circle cx="150" cy="100" r="8" fill="#2d6a4f" stroke="#1b4332" stroke-width="2"/>
+  <text x="150" y="160" font-size="14" text-anchor="middle" fill="#2d6a4f">Clinic Location 1</text>
+</svg>
